@@ -29,7 +29,7 @@ During the analysis, the following key questions were addressed using SQL querie
 analysis techniques:
 
 1. Find out the top 5 customers who made the highest profits.
-![Top 5 Customers Query](insert_image_link_here)
+![Top 5 Customers Query](https://github.com/najirh/Apple-Store-Sales-Analysis)
 
 2. Find out the average quantity ordered per category.
 ![Average Quantity Query](insert_image_link_here)
