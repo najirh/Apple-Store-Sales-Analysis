@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Project
-![Banner Image](insert_banner_image_link_here)
+![Banner Image](https://github.com/najirh/Apple-Store-Sales-Analysis/blob/main/entity-relationship-diagram-1024x521.png)
 
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
